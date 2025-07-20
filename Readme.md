@@ -65,7 +65,7 @@ A smart IoT-based cradle system that automatically swings based on sound detecti
 
 ### 🔹 Sound Detection
 
-![Sound Results](images/sound_results.png)
+![Sound Results](images/Sound_results.png)
 
 ### 🔔 Notifications
 
