@@ -18,7 +18,7 @@ int angle = 0;  // servo position in degrees
 
 String apiWritekey = "YA80RRWWC9R9XF1C"; //Write your writeAPI here
 const char* ssid = "TP-31_5G"; //Write your SSID
-const char* password = "vasavicc" ; //Write your Wifi Password
+const char* password = "**********" ; //Write your Wifi Password
 const char* server = "api.thingspeak.com"; //To initializing the device with Thingspeak API
 WiFiClient client;
 
