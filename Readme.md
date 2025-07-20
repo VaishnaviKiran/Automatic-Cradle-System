@@ -37,19 +37,19 @@ A smart IoT-based cradle system that automatically swings based on sound detecti
 
 ## 🔄 Working Algorithm
 
-![Algorithm Flowchart](images/algorithm_flowchart.png)
+![Algorithm Flowchart](images/Algorithm.png)
 
 ---
 
 ## 🧱 System Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](images/Block_Diagram.png)
 
 ---
 
 ## 🛠 System Setup
 
-![Hardware Setup](images/system_setup.png)
+![Hardware Setup](images/Setup.png)
 
 ---
 
@@ -61,7 +61,7 @@ A smart IoT-based cradle system that automatically swings based on sound detecti
 
 ### 🔹 Moisture Detection
 
-![Moisture Results](images/moisture_results.png)
+![Moisture Results](images/Moisture_results.png)
 
 ### 🔹 Sound Detection
 
@@ -70,6 +70,7 @@ A smart IoT-based cradle system that automatically swings based on sound detecti
 ### 🔔 Notifications
 
 ![Email Alerts](images/notifications.png)
+
 
 ---
 
